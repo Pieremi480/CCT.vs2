@@ -1,2 +1,2 @@
 # CCT.vs2
-verson 2 of my finle websitr
+verson 2 of my finle website
